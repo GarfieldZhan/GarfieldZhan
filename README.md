@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GarfieldZhan
+- 👋 Hi, I’m @Garfield
 - 👀 I’m interested in golang、devops、Kubernetes 
 - 🌱 I’m currently learning golang and gin
 
